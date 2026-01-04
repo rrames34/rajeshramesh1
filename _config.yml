@@ -1,16 +1,1 @@
-title: "Rajesh Ramesh"
-description: "CFD | Multiphase Flows | Particle-Laden Turbulence"
-
-remote_theme: "mmistakes/minimal-mistakes"
-
-plugins:
-  - jekyll-include-cache
-
-author:
-  name: "Rajesh Ramesh"
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
+remote_theme: mmistakes/minimal-mistakes
