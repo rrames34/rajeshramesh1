@@ -1,5 +1,8 @@
 ---
 title: "About"
+layout: single
+sidebar:
+  nav: "main"
 ---
 
 PhD student in Mechanical Engineering working on high-fidelity CFD simulations
