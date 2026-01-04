@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 layout: single
 sidebar:
   nav: "main"
