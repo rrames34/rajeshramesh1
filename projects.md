@@ -7,5 +7,5 @@ permalink: /projects/
 - Euler–Lagrange simulations in Nek5000  
 - Studied swirl ratio and force-model sensitivity  
 
-## Multiphase Force Modeling
-- Drag, lift, rotation, collision models
+## Ventilated capsules
+- Sweat evaporation
